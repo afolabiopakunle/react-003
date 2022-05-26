@@ -1,7 +1,7 @@
 import React from 'react';
 
 function NewMeetUp() {
-  return <div>New Meet Up</div>
+  return <div>Welcome to new Meet Up page</div>
 }
 
 export default NewMeetUp;
